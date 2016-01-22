@@ -1,0 +1,32 @@
+{
+  "name": "khaos-html",
+  "description": "A Khaos template for html templates.",
+  "main": "index.js",
+  "authors": [
+    "Cameron J Roe <cameronjroe@gmail.com> (http://cameronjroe.com/)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "html",
+    "khaos"
+  ],
+  "homepage": "https://github.com/cameronjroe/khaos-html",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vimeo-jquery-api": "~0.10.1",
+    "jquery-placeholder": "~2.3.1",
+    "Chart.js": "~1.0.2",
+    "waypoints": "jquery-waypoints#~4.0.0",
+    "video.js": "videojs#~5.5.3",
+    "bootstrap": "~3.3.6",
+    "animate.css": "~3.5.1"
+  }
+}
